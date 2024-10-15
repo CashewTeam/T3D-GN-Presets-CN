@@ -1,0 +1,22 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ce354149-2a9a-4bd8-9635-ee6bb00799d9:T3D GN Presets CN:T3D GN Presets CN
+648ccecb-9d99-42ca-85f7-68aa2149964c:T3D GN Presets CN/UV:T3D GN Presets CN-UV
+d34dca68-9156-4539-bf34-bf8d32e8f986:T3D GN Presets CN/几何数据:T3D GN Presets CN-几何数据
+8aaee3f6-0fec-4cbe-b22b-b95fdc334896:T3D GN Presets CN/变形器:T3D GN Presets CN-变形器
+affb5d58-8b58-4e1b-af9d-de4920717aee:T3D GN Presets CN/域:T3D GN Presets CN-域
+d1e76922-840e-4bba-aab5-56583d085def:T3D GN Presets CN/已弃用:T3D GN Presets CN-已弃用
+0e2e8da8-51f0-4492-b2ff-c0d99f48dac1:T3D GN Presets CN/曲线:T3D GN Presets CN-曲线
+1645bcf5-7866-4f88-a57f-1046bf4301b0:T3D GN Presets CN/曲线基本体:T3D GN Presets CN-曲线基本体
+82bfdbf9-7289-4aea-8366-f1a10e8dadb1:T3D GN Presets CN/点基本体:T3D GN Presets CN-点基本体
+c9866343-0c4a-4dc7-a56b-07b47b6354d6:T3D GN Presets CN/矢量:T3D GN Presets CN-矢量
+b883dfe3-52cd-427f-8f6a-1fecf8bb6be4:T3D GN Presets CN/缓动:T3D GN Presets CN-缓动
+e409e480-0fce-4c49-a269-e0580997a76a:T3D GN Presets CN/网格:T3D GN Presets CN-网格
+978c7f78-eabf-4aef-8db6-9902b614b560:T3D GN Presets CN/输入:T3D GN Presets CN-输入
+cf45886b-2362-412e-8f6a-d1cad2a14beb:T3D GN Presets CN/阵列:T3D GN Presets CN-阵列
