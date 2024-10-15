@@ -1,12 +1,12 @@
 schema_version = "1.0.0"
 
-id = "t3d_gn_presets"
+id = "t3d_gn_presets_cn"
 version = "1.5.1"
-name = "T3D GN Presets"
-tagline = "A versatile collection of useful node groups for Geometry Nodes"
+name = "T3D GN Presets CN"
+tagline = "多功能几何节点实用节点组集合 汉化 By Con幺幺"
 maintainer = "Tamil Selvan"
 type = "add-on"
-website = "https://github.com/Tams3d/T3D-GN-Presets"
+website = "https://github.com/CashewTeam/T3D-GN-Presets-CN"
 tags = ["Geometry Nodes"]
 
 blender_version_min = "4.2.0"
